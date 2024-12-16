@@ -1,0 +1,14 @@
+NAME: 8_Cities_TSP
+TYPE: TSP
+COMMENT: An 8-city Traveling Salesman Problem
+DIMENSION: 8
+EDGE_WEIGHT_TYPE: EUC_2D
+NODE_COORD_SECTION
+1 0 0
+2 2 3
+3 5 1
+4 7 4
+5 6 8
+6 3 9
+7 1 7
+8 4 5
